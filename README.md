@@ -1,7 +1,7 @@
 # Reinforcement_Learning_Beginners
 Simple Implementation of some basic reinforcement algorithms
 
-The followinf repository consists codes for - 
+The following repository consists codes for - 
 
 1.Q-learning using the bellman equation
 
